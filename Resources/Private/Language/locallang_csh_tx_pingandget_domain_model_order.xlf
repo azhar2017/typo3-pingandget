@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-02-10T15:34:49Z" product-name="pingandget">
+		<header/>
+		<body>
+			<trans-unit id="order_id.description">
+				<source>orderId</source>
+			</trans-unit>
+			<trans-unit id="order_type.description">
+				<source>orderType</source>
+			</trans-unit>
+			<trans-unit id="origin.description">
+				<source>origin</source>
+			</trans-unit>
+			<trans-unit id="destination.description">
+				<source>destination</source>
+			</trans-unit>
+			<trans-unit id="order_description.description">
+				<source>orderDescription</source>
+			</trans-unit>
+			<trans-unit id="order_price.description">
+				<source>orderPrice</source>
+			</trans-unit>
+			<trans-unit id="customer_id.description">
+				<source>customerId</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
